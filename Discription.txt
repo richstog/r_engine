@@ -1,0 +1,4 @@
+Kotlin Mobile App -> Camera -> Connection -> Incode arm points
+Qt Socket -> Accept connect -> Decode arm points -> 3d engine
+
+Qt Socket <-> Kotlin Mobile App : UDP protocol
